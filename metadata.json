@@ -1,0 +1,6 @@
+{
+  "name": "Chaupal",
+  "description": "A modern, responsive social media platform for community discussions, feed sharing, messaging, and profile exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
